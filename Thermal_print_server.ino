@@ -1,4 +1,4 @@
-/*https://builtbyian.com/2018/07/13/arduino-thermal-printer/
+/*
 
 esp8266 library: 2.4.1
 WifiManager: 0.12
